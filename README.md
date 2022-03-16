@@ -1,3 +1,3 @@
 # WebApps
 
-contains multiple python based apps, made using streamlit.
+contains multiple python based apps, made using streamlit in Python.
